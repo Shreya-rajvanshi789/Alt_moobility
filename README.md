@@ -1,4 +1,4 @@
-[sql_details_report_RETENTION_ANALYSIS1.csv](https://github.com/user-attachments/files/19965188/sql_details_report_RETENTION_ANALYSIS1.csv)# ALT MOBILITY DATA ANALYSIS
+# ALT MOBILITY DATA ANALYSIS
 In this project i had created a Dashboard of alt mobility using PowerBI and SQL .
 
 
@@ -46,6 +46,10 @@ shipped, 4874, 1245883.1399999997
 - **Order Details Report**:  Joins the orders, payments, and customers tables and includes relevant metrics like order total, payment status, customer name, and order date.
 
 [sql_details_report.csv](https://github.com/user-attachments/files/19964247/sql_details_report.csv)
+
+- **Customer Retention Analysis**:  Calculated retention % of customer cohorts across months.
+
+[sql_details_report_RE**CuTENTION_ANALYSIS1.csv](https://github.com/user-attachments/files/19965215/sql_details_report_RETENTION_ANALYSIS1.csv)
 
 
 This dashboard will help :

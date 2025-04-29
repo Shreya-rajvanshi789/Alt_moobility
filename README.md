@@ -82,3 +82,5 @@ This dashboard will help :
 
 
  # Report Snapshot (Power BI DESKTOP)
+ 
+![Screenshot 2025-04-29 230059](https://github.com/user-attachments/assets/595ccfd5-a558-4f56-a5b9-1e180ddf5aa1)

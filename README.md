@@ -101,3 +101,54 @@ The tables are given as to build the POWER BI DASHBOARD :
  
 
 ![Screenshot 2025-04-29 230315](https://github.com/user-attachments/assets/e28d6c0f-fdca-400a-9ea2-a24716c656d9)
+
+
+## Key Insights from SQL Queries
+
+### Order and Sales Analysis:
+
+- Order Volume: Most orders are marked as Completed, indicating a healthy fulfillment pipeline. However, around 10–15% remain pending or failed, highlighting operational delays or customer drop-offs.
+
+- Revenue Trends: Sales are highest during Q2 and Q4, suggesting potential seasonal patterns or effective marketing during these periods.
+
+- Order Status Breakdown: Revenue is almost entirely driven by Completed orders, while Cancelled and Failed statuses contribute no revenue.
+
+### Payment Status Analysis:
+
+- Success Rate: Overall payment success rate is high (above 85%), but a growing number of failures were observed in recent months, which could signal technical issues or failed verifications.
+
+- Payment Method Trends: Certain methods (e.g., "Pay Later" or "Wallet") have a higher failure rate, potentially due to customer error or backend limitations.
+
+- Monthly Failure Trends: Spikes in failures are concentrated in specific months, indicating time-bound technical or customer experience issues.
+
+### Order Details Reporting:
+
+- Combined data from customer_orders, payments, and customers tables revealed:
+
+- High-value customers placing repeat orders.
+
+- Gaps between order date and payment date in some instances.
+
+- Patterns of payment success aligned with specific customer types.
+
+## Observations from Customer Retention Analysis
+
+### Cohort Retention Findings:
+
+- First-Time Buyers: Each monthly cohort has a high volume of new customers, but retention drops significantly after the first month.
+
+- Month 1 Retention: On average, only 40–50% of customers return in the first month following their initial purchase.
+
+- Month 3+ Retention: Falls below 20%, showing limited long-term engagement.
+
+- Best Performing Cohorts: Some cohorts (e.g., January, March) showed higher Month 1 retention, possibly due to promotions or successful onboarding.
+
+### Retention Visualization Insights:
+
+ - line chart clearly show a drop-off trend in customer activity after the initial engagement.
+
+- Most engagement is concentrated within the first 2–3 months, suggesting the need for early re-engagement campaigns.
+
+
+
+

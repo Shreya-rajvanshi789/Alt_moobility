@@ -1,6 +1,4 @@
-# Alt_moobility
-
-# ALT MOBILITY DATA ANALYSIS
+[sql_details_report_RETENTION_ANALYSIS1.csv](https://github.com/user-attachments/files/19965188/sql_details_report_RETENTION_ANALYSIS1.csv)# ALT MOBILITY DATA ANALYSIS
 In this project i had created a Dashboard of alt mobility using PowerBI and SQL .
 
 
@@ -15,18 +13,30 @@ Alt Mobility seeks to gain better insights into its order processing, customer r
 
 ### SQL Analysis
 - **Order Analysis**: Tracked order volumes and sales by status and month.
+ 
 [ORDER_AND_SALES__ANALYSIS.csv](https://github.com/user-attachments/files/19964270/ORDER_AND_SALES__ANALYSIS.csv)
+[ORDER_AND_SALES__ANALYSIS.csv](https://github.com/user-attachments/files/19965016/ORDER_AND_SALES__ANALYSIS.csv)
+
+order_status,order_count,total_order_amount
+
+pending, 5069, 1278400.0400000038
+
+delivered, 5057, 1284616.0099999984
+
+shipped, 4874, 1245883.1399999997
+
 
 [ORDER_AND_SALES__ANALYSIS(WEEKLY).csv](https://github.com/user-attachments/files/19964275/ORDER_AND_SALES__ANALYSIS.WEEKLY.csv)
 
 
-
 - **Customer Insights**: Identified repeat vs. one-time customers, segmented by spend/order count.
+
  [CUSTOMERR_ANALYSIS_1.csv](https://github.com/user-attachments/files/19964097/CUSTOMERR_ANALYSIS_2.csv)
 
 [CUSTOMERR_ANALYSIS1.csv](https://github.com/user-attachments/files/19964111/CUSTOMERR_ANALYSIS1.csv)
 
 - **Payment Insights**: Investigated success vs. failure rates by method and time.
+  
 [PAYMENT_ANALYSIS_METHOD.csv](https://github.com/user-attachments/files/19964125/PAYMENT_ANALYSIS_METHOD.csv)
 
 [PAYMENT_ANALYSIS_STATUS.csv](https://github.com/user-attachments/files/19964163/PAYMENT_ANALYSIS_STATUS.csv)
@@ -34,17 +44,17 @@ Alt Mobility seeks to gain better insights into its order processing, customer r
 [PAYMENT_ANALYSIS_STATUS_COUNT.csv](https://github.com/user-attachments/files/19964175/PAYMENT_ANALYSIS_STATUS_COUNT.csv)
 
 - **Order Details Report**:  Joins the orders, payments, and customers tables and includes relevant metrics like order total, payment status, customer name, and order date.
+
 [sql_details_report.csv](https://github.com/user-attachments/files/19964247/sql_details_report.csv)
 
 
 This dashboard will help :
 
-- Monitor Sales Performance : Track total sales and profit margins.
-
-- Analyze Product Performance : Identify top-selling products and categories to optimize inventory and marketing strategies.​
-
+- Monitor Sales Performance : Track total sales .
 
 - Understand Customer Behavior : Analyze customer demographics and purchasing patterns to enhance targeting and personalization.​
+
+The tables are given as to build the POWER BI DASHBOARD :
 
 
 
@@ -83,4 +93,5 @@ This dashboard will help :
 
  # Report Snapshot (Power BI DESKTOP)
  
-![Screenshot 2025-04-29 230059](https://github.com/user-attachments/assets/595ccfd5-a558-4f56-a5b9-1e180ddf5aa1)
+
+![Screenshot 2025-04-29 230315](https://github.com/user-attachments/assets/e28d6c0f-fdca-400a-9ea2-a24716c656d9)

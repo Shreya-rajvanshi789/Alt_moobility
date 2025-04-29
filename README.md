@@ -51,6 +51,8 @@ shipped, 4874, 1245883.1399999997
 
 [sql_details_report_RE**CuTENTION_ANALYSIS1.csv](https://github.com/user-attachments/files/19965215/sql_details_report_RETENTION_ANALYSIS1.csv)
 
+[RETENTION_ANALYSIS(WEEKLY).csv](https://github.com/user-attachments/files/19965461/RETENTION_ANALYSIS.WEEKLY.csv)
+
 
 This dashboard will help :
 

@@ -1,0 +1,4 @@
+payment_method,total_attempts,failed_count,failure_rate_percent
+"bank transfer",5105,1758,34.44
+"credit card",4976,1666,33.48
+paypal,4919,1579,32.10

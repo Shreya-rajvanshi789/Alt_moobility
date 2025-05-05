@@ -1,0 +1,109 @@
+payment_month,payment_method,payment_status,total_payments
+September,"bank transfer",completed,124
+July,"bank transfer",completed,135
+June,"bank transfer",completed,116
+March,"bank transfer",completed,154
+February,"bank transfer",completed,129
+January,"bank transfer",completed,157
+May,"bank transfer",completed,125
+October,"bank transfer",completed,151
+August,"bank transfer",completed,140
+April,"bank transfer",completed,152
+November,"bank transfer",completed,106
+December,"bank transfer",completed,146
+November,"bank transfer",failed,151
+March,"bank transfer",failed,175
+December,"bank transfer",failed,120
+June,"bank transfer",failed,109
+July,"bank transfer",failed,142
+August,"bank transfer",failed,127
+September,"bank transfer",failed,148
+May,"bank transfer",failed,151
+January,"bank transfer",failed,180
+February,"bank transfer",failed,147
+October,"bank transfer",failed,132
+April,"bank transfer",failed,176
+August,"bank transfer",pending,142
+October,"bank transfer",pending,147
+December,"bank transfer",pending,123
+February,"bank transfer",pending,157
+January,"bank transfer",pending,160
+May,"bank transfer",pending,145
+April,"bank transfer",pending,137
+September,"bank transfer",pending,148
+March,"bank transfer",pending,156
+June,"bank transfer",pending,143
+November,"bank transfer",pending,122
+July,"bank transfer",pending,132
+January,"credit card",completed,179
+November,"credit card",completed,139
+September,"credit card",completed,141
+June,"credit card",completed,120
+December,"credit card",completed,124
+October,"credit card",completed,127
+February,"credit card",completed,122
+March,"credit card",completed,179
+April,"credit card",completed,137
+August,"credit card",completed,142
+July,"credit card",completed,134
+May,"credit card",completed,119
+December,"credit card",failed,136
+September,"credit card",failed,126
+January,"credit card",failed,165
+August,"credit card",failed,159
+February,"credit card",failed,131
+November,"credit card",failed,136
+June,"credit card",failed,121
+May,"credit card",failed,124
+March,"credit card",failed,155
+October,"credit card",failed,128
+July,"credit card",failed,131
+April,"credit card",failed,154
+August,"credit card",pending,152
+October,"credit card",pending,110
+November,"credit card",pending,137
+April,"credit card",pending,150
+January,"credit card",pending,153
+May,"credit card",pending,104
+September,"credit card",pending,133
+March,"credit card",pending,173
+June,"credit card",pending,143
+July,"credit card",pending,139
+February,"credit card",pending,129
+December,"credit card",pending,124
+April,paypal,completed,158
+December,paypal,completed,131
+November,paypal,completed,123
+August,paypal,completed,153
+March,paypal,completed,167
+September,paypal,completed,137
+January,paypal,completed,151
+June,paypal,completed,137
+October,paypal,completed,144
+July,paypal,completed,121
+May,paypal,completed,123
+February,paypal,completed,148
+July,paypal,failed,135
+January,paypal,failed,143
+June,paypal,failed,122
+September,paypal,failed,127
+November,paypal,failed,117
+December,paypal,failed,136
+October,paypal,failed,115
+April,paypal,failed,151
+August,paypal,failed,120
+March,paypal,failed,137
+February,paypal,failed,140
+May,paypal,failed,136
+June,paypal,pending,109
+December,paypal,pending,131
+September,paypal,pending,138
+March,paypal,pending,166
+February,paypal,pending,152
+October,paypal,pending,130
+August,paypal,pending,131
+July,paypal,pending,124
+November,paypal,pending,127
+April,paypal,pending,138
+January,paypal,pending,170
+May,paypal,pending,131

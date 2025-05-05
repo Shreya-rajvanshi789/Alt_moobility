@@ -1,4 +1,4 @@
-# ALT MOBILITY DATA ANALYSIS
+[ORDER AND SALES ANALYSIS (IMPROVED).csv](https://github.com/user-attachments/files/20041622/ORDER.AND.SALES.ANALYSIS.IMPROVED.csv)# ALT MOBILITY DATA ANALYSIS
 In this project i had created a Dashboard of alt mobility using PowerBI and SQL .
 
 
@@ -13,6 +13,13 @@ Alt Mobility seeks to gain better insights into its order processing, customer r
 
 ### SQL Analysis
 - **Order Analysis**: Tracked order volumes and sales by status and month.
+
+
+
+
+
+
+
  
 [ORDER_AND_SALES__ANALYSIS.csv](https://github.com/user-attachments/files/19964270/ORDER_AND_SALES__ANALYSIS.csv)
 [ORDER_AND_SALES__ANALYSIS.csv](https://github.com/user-attachments/files/19965016/ORDER_AND_SALES__ANALYSIS.csv)
@@ -24,6 +31,9 @@ pending, 5069, 1278400.0400000038
 delivered, 5057, 1284616.0099999984
 
 shipped, 4874, 1245883.1399999997
+
+
+[Uploading ORDER AND SALES ANALYSIS (IMPROVED).csv…]()
 
 
 [ORDER_AND_SALES__ANALYSIS(WEEKLY).csv](https://github.com/user-attachments/files/19964275/ORDER_AND_SALES__ANALYSIS.WEEKLY.csv)

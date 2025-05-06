@@ -1,8 +1,8 @@
-[RETENTION ANALYSIS (improved).csv](https://github.com/user-attachments/files/20042734/RETENTION.ANALYSIS.improved.csv)[PAYMET STATUS ANALYSIS(with month).csv](https://github.com/user-attachments/files/20042619/PAYMET.STATUS.ANALYSIS.with.month.csv)[PAYMENT_ANALYSIS_METHOD.csv](https://github.com/user-attachments/files/20042550/PAYMENT_ANALYSIS_METHOD.csv)[PAYMENT_ANALYSIS_STATUS.csv](https://github.com/user-attachments/files/20042398/PAYMENT_ANALYSIS_STATUS.csv)[CUSTOMER ANALYSIS(by month and year).csv](https://github.com/user-attachments/files/20042315/CUSTOMER.ANALYSIS.by.month.and.year.csv)[CUSTOMER ANALYSIS(repeat VS non-repeat).csv](https://github.com/user-attachments/files/20041906/CUSTOMER.ANALYSIS.repeat.VS.non-repeat.csv)[ORDER AND SALES ANALYSIS (IMPROVED).csv](https://github.com/user-attachments/files/20041622/ORDER.AND.SALES.ANALYSIS.IMPROVED.csv)# ALT MOBILITY DATA ANALYSIS
+# ALT MOBILITY DATA ANALYSIS
 In this project i had created a Dashboard of alt mobility using PowerBI and SQL .
 
 
-### Dashboard Link : https://1drv.ms/u/c/df29bfb6512c5c25/EVXSLUvmS6VOr-BKrIzzMcQB_T77d4Ay9I4vUV4BUX_BTA?e=ydvLmP
+### Dashboard Link : [https://1drv.ms/u/c/df29bfb6512c5c25/EVXSLUvmS6VOr-BKrIzzMcQB_T77d4Ay9I4vUV4BUX_BTA?e=ydvLmP](https://1drv.ms/u/c/df29bfb6512c5c25/EZC08x5VtqxEqzaXam7JlyUBhJtUrSQ3LefrFrO1-R92QQ?e=pu0WCG)
 
 ## Overview
 This project analyzes Alt Mobility's customer orders, payments, and retention using SQL and visual dashboards.
@@ -204,7 +204,7 @@ ORDER BY c.cohort_month, c.month_number;
 
 [Uploading RETENTION ANALYSIS (improved).csv…]()
 
-##POWER BI Analysis
+# POWER BI Analysis
 
 This dashboard will help :
 
@@ -212,7 +212,7 @@ This dashboard will help :
 
 - Understand Customer Behavior : Analyze customer demographics and purchasing patterns to enhance targeting and personalization.​
 
-The tables are given as to build the POWER BI DASHBOARD :
+The tables are given above in this repository to built dashboards.
 
 
 
@@ -230,28 +230,34 @@ The tables are given as to build the POWER BI DASHBOARD :
 - Step 2: Import query results into Power BI as tables. Ensure date formats, numerical fields, and relationships are correctly established.
 
  
-- Step 3 : In the report view, under the view tab, theme was selected.
+- Step 3: In the report view, under the view tab, theme was selected.
 
-- Step 4 : A Clustured column chart was also added for representing Order_Amount by Month.
+- Step 4: POWER BI report was created for:
 
+  ## Order and Sales Analysis (Report Snapshot) :
 
-- Step 5 : Stacked bar Chart was added to represent Total Retention_percentage and cohort_month by month_number
-
-
-- Step 6 :  Another Stacked bar Chart was added to represent payment_id by payment_status.
-           
-
-- Step 7 : A Clustured column chart was also added for representing Order_count by Month. 
-
-- step 8 : A Donut chart was added to  represent Count of Order_id by Order_status. 
+![Screenshot 2025-05-06 214922](https://github.com/user-attachments/assets/fec738be-bf7a-4788-b29c-ab46f091a9d0)
 
 
+ ## Customer Analysis(Report Snapshot):
+
+  ![Screenshot 2025-05-06 215002](https://github.com/user-attachments/assets/b01b59de-6075-45b5-b30e-aabc69918166)
 
 
- # Report Snapshot (Power BI DESKTOP)
- 
+ ## Payment Status Analysis(Report Snapshot):
 
-![Screenshot 2025-04-29 230315](https://github.com/user-attachments/assets/e28d6c0f-fdca-400a-9ea2-a24716c656d9)
+![Screenshot 2025-05-06 215025](https://github.com/user-attachments/assets/77b7504b-0bf2-411d-aac5-75ecd9d9d9a6)
+
+
+## Order Details Report(Report Snapshot):
+
+![Screenshot 2025-05-06 215101](https://github.com/user-attachments/assets/ae99ad0f-d82f-4089-a1ed-e486c5909237)
+
+
+## Customer Retention Analysis(Report Snapshot):
+
+![Screenshot 2025-05-06 215137](https://github.com/user-attachments/assets/4b034c95-a446-4173-8afa-ec942d8044b3)
+
 
 
 ## Key Insights from SQL Queries
